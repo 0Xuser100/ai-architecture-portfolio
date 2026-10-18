@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office lock files (created while a .pptx/.docx is open)
+~$*
+
+# draw.io desktop backups and temp files
+*.bkp
+*.dtmp
